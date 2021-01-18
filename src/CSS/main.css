@@ -1,0 +1,11 @@
+.main {
+  font-family: roboto;
+  color: white;
+  padding: 0;
+  vertical-align: middle;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+/*# sourceMappingURL=main.css.map */

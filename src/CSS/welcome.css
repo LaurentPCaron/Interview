@@ -1,0 +1,19 @@
+.welcome {
+  font-size: 2.2rem;
+}
+.welcome input, .welcome:focus {
+  outline: none;
+  border: none;
+  border-bottom: white solid 1px;
+  background: none;
+  text-align: center;
+  caret-color: white;
+  color: white;
+  font-size: 3rem;
+  width: 33rem;
+}
+.welcome h1 {
+  margin: 0;
+}
+
+/*# sourceMappingURL=welcome.css.map */
